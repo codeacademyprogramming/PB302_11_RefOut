@@ -1,0 +1,14 @@
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\bin\Debug\netcoreapp3.1\Lesson.exe
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\bin\Debug\netcoreapp3.1\Lesson.deps.json
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\bin\Debug\netcoreapp3.1\Lesson.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\bin\Debug\netcoreapp3.1\Lesson.runtimeconfig.dev.json
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\bin\Debug\netcoreapp3.1\Lesson.dll
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\bin\Debug\netcoreapp3.1\Lesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\obj\Debug\netcoreapp3.1\Lesson.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\obj\Debug\netcoreapp3.1\Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\obj\Debug\netcoreapp3.1\Lesson.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\obj\Debug\netcoreapp3.1\Lesson.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\obj\Debug\netcoreapp3.1\Lesson.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\obj\Debug\netcoreapp3.1\Lesson.dll
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\obj\Debug\netcoreapp3.1\Lesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\11 28-12-2023\28122023\Lesson\obj\Debug\netcoreapp3.1\Lesson.genruntimeconfig.cache
